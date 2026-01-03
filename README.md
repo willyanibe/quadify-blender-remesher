@@ -1,5 +1,7 @@
 # Quadify – Quad Remesher for Blender
 
+Quadify is a production-ready quad remesher for Blender focused on clean edge flow and animation-safe topology.
+
 ![retopo1](https://github.com/user-attachments/assets/f159e244-f958-49cc-b1a2-762e4f485f5e)
 
 Quadify is a smart quad remesher for Blender designed to convert complex or triangulated meshes into clean, predictable quad topology.
