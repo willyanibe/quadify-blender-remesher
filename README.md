@@ -19,7 +19,7 @@ It is built for artists, animators, and game developers who need quad meshes tha
 
 ![WhatsApp Image 2025-10-31 at 3 59 28 PM](https://github.com/user-attachments/assets/a92c124e-f20b-4c94-ab1a-89c5ea4e4703)
 
-Most quad remesh tools optimize for one-click convenience and speed.
+Most quad remesh tools prioritize convenience and speed. Quadify is built for cases where topology quality matters more than one-click results.
 
 Quadify focuses on topology quality, edge flow, and consistency across different mesh types, making it suitable for animation, game assets, and production pipelines where mesh quality matters.
 
